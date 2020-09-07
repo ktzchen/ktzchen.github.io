@@ -6,3 +6,7 @@ body {
 div.pdivclass {
     color: orange;
 }
+
+a:hover {
+    background-color: green
+}
