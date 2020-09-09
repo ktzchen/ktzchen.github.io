@@ -3,12 +3,44 @@ body {
     background-color: white;
 }
 
+div.menuheader {
+    color: orange;
+}
+
 .menu {
     color: orange;
 }
 
-.menu:hover {
-    background-color: green
+div.introduction {
+    color: green;
+    text-align: center;
+}
+
+div.header {
+    color: green;
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.shoutouts {
+    color: olivedrab;
+}
+
+div.content {
+    color: black;
+}
+
+span.olivedrab {
+    color: olivedrab;
+}
+
+span.orange {
+    color: orange;
 }
 
 a:hover {
